@@ -1,4 +1,5 @@
 # markdown-editor
 
-###使用言語
+###　使用技術
+
 typescript /react
